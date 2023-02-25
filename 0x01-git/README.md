@@ -4,7 +4,7 @@ This sub-directory was created based on task given at ALX. In it will contain fi
 
 Here are the directories in this directory:
 
-[bash] ()
-[c] ()
-[js] ()
+[bash] (https://github.com/ravvvz/alx-pre_course/tree/main/0x01-git/bash)
+[c] (https://github.com/ravvvz/alx-pre_course/tree/main/0x01-git/c)
+[js] (https://github.com/ravvvz/alx-pre_course/tree/main/0x01-git/js)
 
