@@ -2,3 +2,9 @@
 
 This sub-directory was created based on task given at ALX. In it will contain files to work on (Depending on what's given). 
 
+Here are the directories in this directory:
+
+[bash] ()
+[c] ()
+[js] ()
+
